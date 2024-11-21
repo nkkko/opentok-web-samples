@@ -8,6 +8,8 @@ Video APIs. It is very similar to the [Basic Video Chat](../Basic%20Video%20Chat
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/opentok/opentok-web-samples/tree/main/Basic-Audio-Transformer)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/opentok/opentok-web-samples)
+
 Enter your credentials in `config.js` and the application will work.
 
 > Note: There is a devDependency `sirv-cli` in the project that is only necessary to run the demo on StackBlitz.
